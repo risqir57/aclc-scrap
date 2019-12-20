@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b07a9759-2153-40f0-869e-6b9591ff7ee8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scrap-aclc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/databases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirments.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rouninscrap.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1VCyJUlvUYnzH3ZXbuOfexlA6CD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrap-aclc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="scrap-aclc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rouninbug" type="PythonConfigurationType" factoryName="Python">
+      <module name="scrap-aclc" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/scrap-aclc-lPepmwTY/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.rouninbug" />
+      <item itemvalue="Python.__main__" />
+      <item itemvalue="Python.app" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.__main__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b07a9759-2153-40f0-869e-6b9591ff7ee8" name="Default Changelist" comment="" />
+      <created>1576771299617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576771299617</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="55" width="1084" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576775240927">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="166" y="55" width="1084" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog/50.27.1316.741@50.27.1316.741" timestamp="1576775240927" />
+    <state x="491" y="158" width="424" height="486" key="FileChooserDialogImpl" timestamp="1576775229930">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="491" y="158" width="424" height="486" key="FileChooserDialogImpl/50.27.1316.741@50.27.1316.741" timestamp="1576775229930" />
+    <state width="1293" height="174" key="GridCell.Tab.0.bottom" timestamp="1576775658468">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1293" height="174" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1576775658468" />
+    <state width="1293" height="174" key="GridCell.Tab.0.center" timestamp="1576775658468">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1293" height="174" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1576775658468" />
+    <state width="1293" height="174" key="GridCell.Tab.0.left" timestamp="1576775658468">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1293" height="174" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1576775658468" />
+    <state width="1293" height="174" key="GridCell.Tab.0.right" timestamp="1576775658468">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1293" height="174" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1576775658468" />
+    <state width="658" height="370" key="XDebugger.FullValuePopup" timestamp="1576785238299">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="658" height="370" key="XDebugger.FullValuePopup/50.27.1316.741@50.27.1316.741" timestamp="1576785238299" />
+    <state x="238" y="105" width="930" height="586" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1576777185296">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="238" y="105" width="930" height="586" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/50.27.1316.741@50.27.1316.741" timestamp="1576777185296" />
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576800659311">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="371" y="89" width="672" height="678" key="search.everywhere.popup/50.27.1316.741@50.27.1316.741" timestamp="1576800659311" />
+  </component>
+</project>
