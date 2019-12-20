@@ -134,6 +134,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="303" y="59" width="800" height="679" key="#Inspections" timestamp="1576838713565">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="303" y="59" width="800" height="679" key="#Inspections/50.27.1316.741@50.27.1316.741" timestamp="1576838713565" />
     <state x="166" y="55" width="1084" height="691" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576775240927">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
@@ -182,10 +186,10 @@
       <screen x="50" y="27" width="1316" height="741" />
     </state>
     <state x="238" y="105" width="930" height="586" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/50.27.1316.741@50.27.1316.741" timestamp="1576823595137" />
-    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576809909717">
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1576837864872">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
-    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/50.27.1316.741@50.27.1316.741" timestamp="1576809909717" />
+    <state x="368" y="225" key="com.intellij.ide.util.TipDialog/50.27.1316.741@50.27.1316.741" timestamp="1576837864872" />
     <state x="371" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576800659311">
       <screen x="50" y="27" width="1316" height="741" />
     </state>
