@@ -53,6 +53,7 @@ def get_html_by_schema(kat, typ, url):
 
 # Fixme: Detail page is nor required, check this article `Main Kotor Daging Impor` in (
 #  https://aclc.kpk.go.id/materi/berpikir-kritis-terhadap-korupsi/infografis)
+# Fixme: Find faster internet speed
 def getContentDetails(params):
     try:
         res = []
