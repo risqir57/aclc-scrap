@@ -37,18 +37,45 @@ def analyst_img(param):
 
 
 def get_html_by_schema(kat, typ, url):
+    datas = {
+        "kat": kat,
+        "sub": typ,
+    }
     go_urls = rc.simple_get(url)
     if typ == "website" or typ == "boardgame" or typ == "audio":
         find_element = go_urls.find("td", width="70%").prettify()
+        datas['content'] = find_element
     else:
         find_element = go_urls.find_all("h4")
-    return {
-        "kat": kat,
-        "sub": typ,
-        "link": find_element
-    }
+        datas['content'] = getContentDetails(find_element)
+    return datas
+
+
+# Fixme: Detail page is nor required, check this article `Main Kotor Daging Impor` in (
+#  https://aclc.kpk.go.id/materi/berpikir-kritis-terhadap-korupsi/infografis)
+def getContentDetails(params):
+    try:
+        res = []
+        is_img = [".jpg", ".png", ".jpeg"]
+        for el in params:
+            a = el.a
+            if a and a['href'] not in is_img:
+                links = a['href']
+                title = a.text
+                go_url = rc.simple_get(links)
+                article = go_url.article.prettify()
+                content = go_url.img["src"]
+                if title and go_url and article and content:
+                    gets = {
+                        "title": title,
+                        "description": article,
+                        "content": content
+                    }
+                    res.append(gets)
+        return res
+    except:
+        print(res)
 
 
 if __name__ == "__main__":
     main()
-
